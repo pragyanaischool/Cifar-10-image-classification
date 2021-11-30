@@ -4,7 +4,8 @@ Mihir Pandya - 1911098
 
 ## Introduction:
 In this project we create a robust image classification pipeline to classify images.
-We created 2 different models and recorded their accuracy and loss.
+We created 2 different models and recorded their accuracy and loss.  
+The app has been deployed at https://share.streamlit.io/bamblebam/cifar-10-image-classification/app.py
 
 ## Dataset:
 The dataset used in this project is the CIFAR-10 dataset which consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
