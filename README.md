@@ -1,5 +1,5 @@
 # Image Classification On CIFAR-10 Dataset
-Burhanuddin Rangwala - 1911109
+Burhanuddin Rangwala - 1911109  
 Mihir Pandya - 1911098
 
 ## Introduction:
